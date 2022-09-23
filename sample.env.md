@@ -1,0 +1,3 @@
+## Sanity
+
+REACT_APP_SANITY_PROJECT_ID=
